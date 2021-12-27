@@ -14,7 +14,6 @@
 - Logging and Monitoring
 - Performance analysis
 - Debugging and Tracing
-- Undo Functionality
 - Validation of inputs and outputs
 - Object Filters
 - Security Implementation
