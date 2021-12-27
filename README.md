@@ -27,6 +27,11 @@
 - Dışarıdan veritabanında değişiklik yapabilmesi için .Net Core Api kullandım. 
 - Dependency injection yönetimini .Net Core da default olarak bulunan container ile yöneterek istenmesi halinde Swagger yardımı ile api controller'ları test edilebilir.
 
+## Api İstek Atma
+
+- Örnek api isteği tekbir film değeri getirmek için https://localhost:44335/api/movie/getbyid?movieId=1  
+- Bütün filmlere ulaşmak için ise https://localhost:44335/api/movie/getall linki kullanılmalıdır.  
+
 ## Versiyon Yönetimi
 
 - Projeyi sizinde alıp inceleyebilmeniz için git altyapısını kullanan github sitesine yükledim. Projeye  https://github.com/erdemcobanoglu/MovieApp linkinden ulaşabilirsiniz.
