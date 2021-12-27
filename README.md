@@ -17,7 +17,7 @@
 - Json dosyası içerisindeki verileri veritabanına kaydetmek için uygun bir model oluşturup.
 - EntityFramework yardımıile MsSql ile mapping yapıldı.
 
-## Repository,
+## Repository
 
 - Veritabanına kayıt attıktan sonra sıra bu kayıtlar ve veritabanı üzerinden işlem yapmaya geldi. 
 - Projenin daha da genişleyebileceğini göz önüne ve veritabanına yapılcak işlemleri tek bir sınıftan yönetmek için alarak Generic Repository ve Unit Of Work sınıflarını kullandım. 
