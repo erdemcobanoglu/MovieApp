@@ -29,7 +29,7 @@
 
 ## Versiyon Yönetimi
 
-- Projeyi sizinde alıp inceleyebilmeniz için git altyapısını kullanan github sitesine yükledim. Projeye  https://github.com/erdemcobanoglu/order-managment-api linkinden ulaşabilirsiniz.
+- Projeyi sizinde alıp inceleyebilmeniz için git altyapısını kullanan github sitesine yükledim. Projeye  https://github.com/erdemcobanoglu/MovieApp linkinden ulaşabilirsiniz.
 
 ## Faydalandığım Kaynaklar
 
