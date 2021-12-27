@@ -11,16 +11,29 @@
 - Autofac
 - Git-Github
 - MsSql
+- Logging and Monitoring
+- Performance analysis
+- Debugging and Tracing
+- Undo Functionality
+- Validation of inputs and outputs
+- Morphing the behavior of existing objects
+- Object Filters
+- Security Implementation
+- Managing transactions
 
 ## Verileri Kaydetme
 
 - Json dosyası içerisindeki verileri veritabanına kaydetmek için uygun bir model oluşturup.
 - EntityFramework yardımıile MsSql ile mapping yapıldı.
 
-## Repository
+## Aspect-Oriented Programming’in Sağladıkları
 
 - Veritabanına kayıt attıktan sonra sıra bu kayıtlar ve veritabanı üzerinden işlem yapmaya geldi. 
-- Projenin daha da genişleyebileceğini göz önüne ve veritabanına yapılcak işlemleri tek bir sınıftan yönetmek için alarak Generic Repository ve Unit Of Work sınıflarını kullandım. 
+- İçi içe yazılmış ve sürekli tekrar eden kodlardan kurtulabiliyoruz,
+- Daha temiz ve anlaşılır kodlar yazabiliyoruz,
+- Yazmış olduğumuz kodları daha abstract hale getirerek modülerliğini arttırıyoruz,
+- Bakım ve geliştirme maliyetlerini azaltıyoruz,
+- Uygulamamızı daha yönetilebilir ve daha esnek hale getirebiliyoruz.
 
 ## Api Oluşturma
 
