@@ -25,7 +25,7 @@
 ## Api Oluşturma
 
 - Dışarıdan veritabanında değişiklik yapabilmesi için .Net Core Api kullandım. 
-- Dependency injection yönetimini .Net Core da default olarak bulunan container ile yöneterek Swagger yardımı ile api controller'ları test ettim.
+- Dependency injection yönetimini .Net Core da default olarak bulunan container ile yöneterek istenmesi halinde Swagger yardımı ile api controller'ları test edilebilir.
 
 ## Versiyon Yönetimi
 
