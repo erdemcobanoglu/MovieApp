@@ -35,7 +35,7 @@
 - Uygulamamızı daha yönetilebilir ve daha esnek hale getirebiliyoruz.
 
 ## Cross-Cutting Concerns
-AOP’nın ortaya çıkma sebeplerinden en önemlisi cross-cutting concern’lerdir. Cross-cutting corcernler , bir sistemin birden çok bölümünde kullanılan işlevsellik parçalarıdır. Cross-cutting corcernler AOP olmadan kodlandığı zaman fonksiyonel ihtiyaçlar ve fonksiyonel olmayan ihtiyaçlar birbirine karışır ve core logic ile cross-cutting concernler bir arada bulunur. Bu da kodu okunması daha zor bir hale sokar.
+- AOP’nın ortaya çıkma sebeplerinden en önemlisi cross-cutting concern’lerdir. Cross-cutting corcernler , bir sistemin birden çok bölümünde kullanılan işlevsellik parçalarıdır. Cross-cutting corcernler AOP olmadan kodlandığı zaman fonksiyonel ihtiyaçlar ve fonksiyonel olmayan ihtiyaçlar birbirine karışır ve core logic ile cross-cutting concernler bir arada bulunur. Bu da kodu okunması daha zor bir hale sokar.
 
 ## Api Oluşturma
 
