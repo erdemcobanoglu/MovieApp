@@ -16,7 +16,6 @@
 - Debugging and Tracing
 - Undo Functionality
 - Validation of inputs and outputs
-- Morphing the behavior of existing objects
 - Object Filters
 - Security Implementation
 - Managing transactions
